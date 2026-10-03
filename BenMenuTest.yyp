@@ -26,9 +26,10 @@
   "resources":[
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"math_util","path":"scripts/math_util/math_util.yy",},},
+    {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
     {"id":{"name":"menu_util","path":"scripts/menu_util/menu_util.yy",},},
-    {"id":{"name":"spr_menu_node","path":"sprites/spr_menu_node/spr_menu_node.yy",},},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
+    {"id":{"name":"spr_menu_item","path":"sprites/spr_menu_item/spr_menu_item.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
